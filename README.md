@@ -67,7 +67,7 @@ An autonomous AI-powered crypto trading agent for Solana that scans markets, ana
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/agentic-trader.git
+git clone https://github.com/Merrick17/agentic-trader.git
 cd agentic-trader
 
 # Install dependencies
@@ -408,8 +408,8 @@ This software is for educational purposes only. Cryptocurrency trading involves 
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/agentic-trader/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/agentic-trader/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Merrick17/agentic-trader/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Merrick17/agentic-trader/discussions)
 - **Documentation**: See `CLAUDE.md` for development guide
 
 ## Acknowledgments
